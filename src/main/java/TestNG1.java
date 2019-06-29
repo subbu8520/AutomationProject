@@ -14,4 +14,8 @@ public class TestNG1 {
 	{
 		System.out.println("Thisss is thousif from automation @GITHUB");
 	}
+	public void name()
+	{
+		System.out.println("Thisss isssss thousif from automation @GITHUB");
+	}
 }
